@@ -5,11 +5,19 @@
     text-align: center;
     color:lightcoral;
     font-family:monospace;
-    background-image:url("rumham.jpg");
 }
 
 .p {
     text-align: center;
     color:darkcyan;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.unorderedList {
+
+    list-style: square;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    list-style-image:url('rumham.png');
+
 }
