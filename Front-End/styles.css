@@ -1,8 +1,15 @@
 /* External CSS */
-.monospace { font-family: monospace;}
+.monospace {font-family:monospace;}
 
-.h2 {color:darkcyan;
-     font-family: monospace;}
+.h2 {
+    text-align: center;
+    color:lightcoral;
+    font-family:monospace;
+    background-image:url("rumham.jpg");
+}
 
-.p {color:tomato;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.p {
+    text-align: center;
+    color:darkcyan;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
