@@ -1,12 +1,8 @@
 /* External CSS */
-h2 {
+.monospace { font-family: monospace;}
 
-    color:darkcyan;
+.h2 {color:darkcyan;
+     font-family: monospace;}
 
-}
-
-p {
-
-    color:tomato;
-
-}
+.p {color:tomato;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
